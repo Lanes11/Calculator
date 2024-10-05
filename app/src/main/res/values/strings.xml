@@ -13,13 +13,16 @@
     <string name="btn_9">9</string>
 
     <string name="btn_AC">AC</string>
-    <string name="btn_back">back</string>
+    <string name="btn_back">Button back</string>
     <string name="btn_percent">%</string>
     <string name="btn_division">÷</string>
     <string name="btn_multiplication">×</string>
     <string name="btn_minus">-</string>
     <string name="btn_plus">+</string>
     <string name="btn_equals">=</string>
-    <string name="btn_point">.</string>
+    <string name="btn_point">,</string>
 
+    <string name="text_zero">0</string>
+
+    <string name="result_format">= %s</string>
 </resources>
